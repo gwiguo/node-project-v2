@@ -1,28 +1,48 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <el-row id="app" :style="{color:$store.state.color}">
+    <el-col :span="4">
+      <Nav></Nav>
+    </el-col>
+    <el-col :span="20" class="app_right_container">
+      <router-view />
+    </el-col>
+  </el-row>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Nav from "@/components/Nav";
+import { mapState } from "vuex";
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    Nav,
+  },
+  computed:{
+	...mapState(['setColor'])
+  },
+  mounted(){
+	console.log(this.$store.state)
+  },
+  name: "App",
+};
 </script>
 
-<style>
+<style lang="less">
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  height: 100%;
+  overflow: hidden;
+  margin-right: 0 !important;
+  .app_right_container {
+    overflow-y: auto;
+  }
+  .el-col {
+    height: 100%;
+  }
 }
 </style>

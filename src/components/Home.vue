@@ -5,22 +5,23 @@
   .search-container .el-col > div {
     margin-bottom: 5px;
   }
-  :deep(.el-dialog){
-	height: 95%;
-	margin-bottom: 0;
-	.el-dialog__body{
-		height: calc(~"100% - 110px");
-		padding-bottom: 0;
-		.el-row{
-			height: 50%;
-		}
-		.el-col,.canvas-container{
-			height: 100%;			
-		}
-	}
-	.el-dialog__footer{
-		padding-bottom: 5px;
-	}
+  :deep(.el-dialog) {
+    height: 95%;
+    margin-bottom: 0;
+    .el-dialog__body {
+      height: calc(~"100% - 110px");
+      padding-bottom: 0;
+      .el-row {
+        height: 50%;
+      }
+      .el-col,
+      .canvas-container {
+        height: 100%;
+      }
+    }
+    .el-dialog__footer {
+      padding-bottom: 5px;
+    }
   }
 }
 </style>
@@ -149,9 +150,11 @@
           icon="el-icon-s-data"
           type="primary"
           size="small"
-          @click="()=>{
-            $store.commit('setColor','#0f0');
-          }"
+          @click="
+            () => {
+              $store.commit('setColor', '#0f0');
+            }
+          "
           >修改颜色</el-button
         >
       </el-col>
@@ -180,7 +183,9 @@
       </el-row>
       <template #footer>
         <span class="dialog-footer">
-          <el-button @click="dialogVisible = false" size="small">关 闭</el-button>
+          <el-button @click="dialogVisible = false" size="small"
+            >关 闭</el-button
+          >
         </span>
       </template>
     </el-dialog>
@@ -200,10 +205,10 @@ export default {
       dialogVisible: false,
       payload: {},
       table_height: window.innerHeight - 200,
-      sexChart:null,
-      birthChart:null,
-      zyChart:null,
-      provinceChart:null,
+      sexChart: null,
+      birthChart: null,
+      zyChart: null,
+      provinceChart: null,
     };
   },
   methods: {
@@ -239,7 +244,7 @@ export default {
               ));
 
             this.sexChart.setOption({
-              color:["#7ED3F4","#FE6F6F"],
+              color: ["#7ED3F4", "#FE6F6F"],
               title: {
                 text: "学生性别",
                 textAlign: "center",
@@ -247,12 +252,12 @@ export default {
               },
               tooltip: {
                 trigger: "item",
-                formatter: '{a} <br/>{b} : {c} ({d}%)'
+                formatter: "{a} <br/>{b} : {c} ({d}%)",
               },
               legend: {
-                orient: 'vertical',
-                left: 'left',
-                top:"center"
+                orient: "vertical",
+                left: "left",
+                top: "center",
               },
               series: [
                 {
@@ -286,7 +291,6 @@ export default {
                 },
               ],
             });
-
 
             !this.birthChart &&
               (this.birthChart = echarts.init(
@@ -328,7 +332,6 @@ export default {
               },
             });
 
-
             !this.zyChart &&
               (this.zyChart = echarts.init(
                 document.getElementById("zy-canvas")
@@ -342,20 +345,21 @@ export default {
               },
               series: [
                 {
-                  name: 'Nightingale Chart',
-                  type: 'pie',
+                  name: "Nightingale Chart",
+                  type: "pie",
                   radius: [50, 250],
-                  center: ['50%', '50%'],
-                  roseType: 'area',
+                  center: ["50%", "50%"],
+                  roseType: "area",
                   itemStyle: {
-                    borderRadius: 8
+                    borderRadius: 8,
                   },
-                  data: Object.keys(data.zy).map(zy=>({value:data.zy[zy],name:zy}))
-                }
-              ]
+                  data: Object.keys(data.zy).map((zy) => ({
+                    value: data.zy[zy],
+                    name: zy,
+                  })),
+                },
+              ],
             });
-
-
           } else {
             this.$message.error(res.data.err_message);
           }

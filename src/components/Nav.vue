@@ -1,6 +1,6 @@
 <template>
   <el-menu
-    default-active="/"
+    :default-active="$router.path"
     router
   >
     <el-menu-item index="/">
@@ -23,7 +23,7 @@
       <i class="el-icon-setting"></i>
       <span slot="title">Canvas</span>
     </el-menu-item>
-    <el-menu-item index="yys/home">
+    <el-menu-item index="/yys_home">
       <i class="el-icon-picture-outline-round"></i>
       <span slot="title">阴阳师官网</span>
     </el-menu-item>
@@ -36,7 +36,7 @@ export default {
     return {
 
     };
-  },  
+  }
 };
 </script>
 <style lang="less" scoped>

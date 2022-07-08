@@ -32,12 +32,12 @@ export default new VueRouter({
 			component: Canvas
 		},
 		{
-			path: '/yys/home',
+			path: '/yys_home',
 			name: 'yysHome',
 			component: YysHome
 		},
 		{
-			path: '/yys/index',
+			path: '/yys_index',
 			name: 'yysIndex',
 			component: YysIndex
 		},

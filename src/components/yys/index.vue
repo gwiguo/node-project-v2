@@ -2676,7 +2676,7 @@ table {
             <ul>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/1.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/1.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2688,7 +2688,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/2.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/2.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2700,7 +2700,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/3.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/3.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2712,7 +2712,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/4.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/4.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2724,7 +2724,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/5.png"
+                  src="../../assets/images/yys/index/fan/jxtj/5.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2736,7 +2736,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/6.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/6.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2748,7 +2748,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/7.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/7.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2760,7 +2760,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/jxtj/8.jpg"
+                  src="../../assets/images/yys/index/fan/jxtj/8.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2774,7 +2774,7 @@ table {
             <ul>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/01.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/01.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2786,7 +2786,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/02.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/02.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2798,7 +2798,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/03.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/03.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2810,7 +2810,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/04.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/04.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2822,7 +2822,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/05.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/05.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2834,7 +2834,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/06.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/06.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2846,7 +2846,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/07.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/07.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2858,7 +2858,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trhh/08.jpg"
+                  src="../../assets/images/yys/index/fan/trhh/08.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2872,7 +2872,7 @@ table {
             <ul>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/1.jpg"
+                  src="../../assets/images/yys/index/fan/wjCOS/1.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2884,7 +2884,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/2.jpg"
+                  src="../../assets/images/yys/index/fan/wjCOS/2.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2896,7 +2896,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/3.jpg"
+                  src="../../assets/images/yys/index/fan/wjCOS/3.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2908,7 +2908,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/4.jpg"
+                  src="../../assets/images/yys/index/fan/wjCOS/4.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2920,7 +2920,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/5.png"
+                  src="../../assets/images/yys/index/fan/wjCOS/5.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2932,7 +2932,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/6.png"
+                  src="../../assets/images/yys/index/fan/wjCOS/6.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2944,7 +2944,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/7.png"
+                  src="../../assets/images/yys/index/fan/wjCOS/7.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2956,7 +2956,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/wjCOS/8.jpg"
+                  src="../../assets/images/yys/index/fan/wjCOS/8.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2970,7 +2970,7 @@ table {
             <ul>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/01.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/01.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2982,7 +2982,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/02.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/02.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -2994,7 +2994,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/03.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/03.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3006,7 +3006,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/04.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/04.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3018,7 +3018,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/05.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/05.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3030,7 +3030,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/06.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/06.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3042,7 +3042,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/07.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/07.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3054,7 +3054,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trsp/08.jpg"
+                  src="../../assets/images/yys/index/fan/trsp/08.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3068,7 +3068,7 @@ table {
             <ul>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/01.jpg"
+                  src="../../assets/images/yys/index/fan/trxs/01.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3080,7 +3080,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/02.jpg"
+                  src="../../assets/images/yys/index/fan/trxs/02.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3092,7 +3092,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/03.jpg"
+                  src="../../assets/images/yys/index/fan/trxs/03.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3104,7 +3104,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/04.png"
+                  src="../../assets/images/yys/index/fan/trxs/04.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3116,7 +3116,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/05.png"
+                  src="../../assets/images/yys/index/fan/trxs/05.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3128,7 +3128,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/06.png"
+                  src="../../assets/images/yys/index/fan/trxs/06.png"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3140,7 +3140,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/07.jpg"
+                  src="../../assets/images/yys/index/fan/trxs/07.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3152,7 +3152,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/trxs/08.jpg"
+                  src="../../assets/images/yys/index/fan/trxs/08.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3166,7 +3166,7 @@ table {
             <ul>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/01.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/01.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3178,7 +3178,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/02.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/02.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3190,7 +3190,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/03.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/03.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3202,7 +3202,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/04.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/04.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3214,7 +3214,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/05.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/05.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3226,7 +3226,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/06.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/06.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3238,7 +3238,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/07.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/07.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3250,7 +3250,7 @@ table {
               </li>
               <li>
                 <img
-                  data-src="/assets/images/yys/index/fan/gszmj/08.jpg"
+                  src="../../assets/images/yys/index/fan/gszmj/08.jpg"
                   alt=""
                   width="100%"
                   height="80%"
@@ -3273,7 +3273,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              src="/assets/images/yys/index/huace/01c.png"
+              src="../../assets/images/yys/index/huace/01c.png"
               alt=""
               width="100%"
               heighe="100%"
@@ -3320,7 +3320,7 @@ table {
           <h3><a href="javscript:;"></a></h3>
           <a href="javascript:;" class="pic1">
             <img
-              data-src="../../assets/images/yys/index/video/1.jpg"
+              src="../../assets/images/yys/index/video/1.jpg"
               alt=""
               width="100%"
               height="154"
@@ -3329,7 +3329,7 @@ table {
           </a>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/video/2.jpg"
+              src="../../assets/images/yys/index/video/2.jpg"
               alt=""
               width="100%"
               height="154"
@@ -3338,7 +3338,7 @@ table {
           </a>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/video/3.jpg"
+              src="../../assets/images/yys/index/video/3.jpg"
               alt=""
               width="100%"
               height="154"
@@ -3350,7 +3350,7 @@ table {
           <h3><a href="javscript:;"></a></h3>
           <a href="javascript:;" class="pic1">
             <img
-              data-src="../../assets/images/yys/index/video/4.jpg"
+              src="../../assets/images/yys/index/video/4.jpg"
               alt=""
               width="100%"
               height="154"
@@ -3359,7 +3359,7 @@ table {
           </a>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/video/5.jpg"
+              src="../../assets/images/yys/index/video/5.jpg"
               alt=""
               width="100%"
               height="154"
@@ -3368,7 +3368,7 @@ table {
           </a>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/video/6.jpg"
+              src="../../assets/images/yys/index/video/6.jpg"
               alt=""
               width="100%"
               height="154"
@@ -3387,7 +3387,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/activity/1.png"
+              src="../../assets/images/yys/index/activity/1.png"
               alt=""
               width="100%"
               height="100%"
@@ -3398,7 +3398,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/activity/2.jpg"
+              src="../../assets/images/yys/index/activity/2.jpg"
               alt=""
               width="100%"
               height="100%"
@@ -3409,7 +3409,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/activity/3.jpg"
+              src="../../assets/images/yys/index/activity/3.jpg"
               alt=""
               width="100%"
               height="100%"
@@ -3420,7 +3420,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/activity/4.jpg"
+              src="../../assets/images/yys/index/activity/4.jpg"
               alt=""
               width="100%"
               height="100%"
@@ -3431,7 +3431,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/activity/5.jpg"
+              src="../../assets/images/yys/index/activity/5.jpg"
               alt=""
               width="100%"
               height="100%"
@@ -3442,7 +3442,7 @@ table {
         <li>
           <a href="javascript:;">
             <img
-              data-src="../../assets/images/yys/index/activity/6.jpg"
+              src="../../assets/images/yys/index/activity/6.jpg"
               alt=""
               width="100%"
               height="100%"
@@ -3474,7 +3474,6 @@ table {
 import $ from "jquery";
 import "jquery-mousewheel";
 import shishenData from "./shishenData.json";
-window.$ = $;
 export default {
     mounted(){
         $(function () {
@@ -3489,8 +3488,9 @@ export default {
                 }, function () {
                     $hide.stop().slideUp(200)
                 });
-                $(window).scroll(function () {
-                    if ($(document).scrollTop() >= 80) {
+                // document.querySelector(".app_right_container")
+                $(".app_right_container").scroll(function () {
+                    if ($(this).scrollTop() >= 80) {
                         $nav.css({
                             'position': 'fixed',
                             'background-color': 'rgba(255,255,255,.9)'
@@ -3654,20 +3654,19 @@ export default {
                     bool = true;
 
                     document.querySelector(".app_right_container").onscroll = function (){
-						console.log(this)
                         if(this.scrollTop >= $shishen.position().top - $(".app_right_container").height()){  
                             if(bool){
-								for (var i = 0, lens = shishenData.length; i < lens; i++) {
-									var img = document.createElement('img');
-									// img.src = `../../assets/images/yys/index/content/shishen/${shishenData[i]["id"]}.png`;
-									img.src = require(`@/assets/images/yys/index/content/shishen/${shishenData[i]["id"]}.png`);
-									$(img).css({
-										width: 89,
-										height: 92,
-										margin: '14px 10px 10px 32px'
-									});
-									frag.appendChild(img)       
-								}
+                            for (var i = 0, lens = shishenData.length; i < lens; i++) {
+                              var img = document.createElement('img');
+                              // img.src = `../../assets/images/yys/index/content/shishen/${shishenData[i]["id"]}.png`;
+                              img.src = require(`@/assets/images/yys/index/content/shishen/${shishenData[i]["id"]}.png`);
+                              $(img).css({
+                                width: 89,
+                                height: 92,
+                                margin: '14px 10px 10px 32px'
+                              });
+                              frag.appendChild(img)       
+                            }
                                 $shishenUl.append(frag);  
                                 bool = false;
                             }
@@ -3818,32 +3817,32 @@ export default {
                                 bool = false;
                             }
                         }
-                        if(this.scrollTop >= $tongren.position().top - $(".app_right_container").height()){  
-                            if(tongrenHasLoaded){
-                              $pics.each(function (index,item) {
-                                $(item).attr('src',$(item).attr('data-src'));
-                              });
-                              tongrenHasLoaded = false;
-                            }
-                        }
+                        // if(this.scrollTop >= $tongren.position().top - $(".app_right_container").height()){  
+                        //     if(tongrenHasLoaded){
+                        //       $pics.each(function (index,item) {
+                        //         $(item).attr('src',$(item).attr('data-src'));
+                        //       });
+                        //       tongrenHasLoaded = false;
+                        //     }
+                        // }
                         
-                        if(this.scrollTop >= $shituTop - $(".app_right_container").height()){  
-                            if(shituHasLoaded){
-                              $imgs.each(function (index,item) {
-                                $(item).attr('src',$(item).attr('data-src'));
-                              });
-                              shituHasLoaded = false;
-                            }
-                        }
+                        // if(this.scrollTop >= $shituTop - $(".app_right_container").height()){  
+                        //     if(shituHasLoaded){
+                        //       $imgs.each(function (index,item) {
+                        //         $(item).attr('src',$(item).attr('data-src'));
+                        //       });
+                        //       shituHasLoaded = false;
+                        //     }
+                        // }
                         
-                        if(this.scrollTop >= $shituTop - $(".app_right_container").height()){  
-                            if(activityHasLoaded){
-                              $activityImgs.each(function (index,item) {
-                                $(item).attr('src',$(item).attr('data-src'));
-                              });
-                              activityHasLoaded = false;
-                            }
-                        }
+                        // if(this.scrollTop >= $shituTop - $(".app_right_container").height()){  
+                        //     if(activityHasLoaded){
+                        //       $activityImgs.each(function (index,item) {
+                        //         $(item).attr('src',$(item).attr('data-src'));
+                        //       });
+                        //       activityHasLoaded = false;
+                        //     }
+                        // }
                     }
                     
                 $li.mouseenter(function () {
